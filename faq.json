@@ -1,0 +1,37 @@
+[
+  {
+    "id": "saludo",
+    "keywords": ["hola", "buenas", "buenos dias", "buenos días", "buenas tardes", "buenas noches"],
+    "answer": "¡Hola! 👋 Bienvenido a Nativo Host / Nuna Lodge. Siente la cultura, vive la experiencia. ¿En qué te puedo ayudar? Puedes preguntarme por el menú, los horarios o cómo reservar."
+  },
+  {
+    "id": "menu",
+    "keywords": ["menu", "menú", "carta", "que tienen", "qué tienen", "platos", "comida", "precio", "precios"],
+    "answer": "EDITA ESTO: aquí va un resumen de tu menú (ej: 'Tenemos desayunos, almuerzos y cafetería. Puedes ver el menú completo aquí: [enlace o PDF]'). También puedes escribir /menu para el menú detallado."
+  },
+  {
+    "id": "horarios",
+    "keywords": ["horario", "hora", "abren", "abierto", "cierran", "cerrado", "atienden"],
+    "answer": "EDITA ESTO: coloca aquí tus horarios reales, ej: 'Atendemos de lunes a domingo de 8:00 am a 8:00 pm.'"
+  },
+  {
+    "id": "reservas",
+    "keywords": ["reserva", "reservar", "mesa", "disponibilidad", "cupo", "cupos"],
+    "answer": "EDITA ESTO: explica aquí tu proceso de reservas, ej: 'Para reservar una mesa indícanos fecha, hora y número de personas, y te confirmamos disponibilidad.'"
+  },
+  {
+    "id": "ubicacion",
+    "keywords": ["ubicacion", "ubicación", "direccion", "dirección", "donde estan", "dónde están", "como llegar", "cómo llegar", "mapa"],
+    "answer": "EDITA ESTO: coloca aquí tu dirección y/o enlace de Google Maps."
+  },
+  {
+    "id": "hospedaje",
+    "keywords": ["hospedaje", "alojamiento", "habitacion", "habitación", "dormir", "cabaña", "cabañas", "booking"],
+    "answer": "EDITA ESTO: información sobre hospedaje/cabañas y el enlace de tu listado en Booking.com."
+  },
+  {
+    "id": "default",
+    "keywords": [],
+    "answer": "Gracias por tu mensaje 🙂. Un miembro del equipo de Nativo Host te responderá en breve. Mientras tanto, puedes escribir /menu para ver nuestra carta."
+  }
+]
