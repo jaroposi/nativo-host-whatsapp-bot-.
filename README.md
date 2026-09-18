@@ -1,4 +1,4 @@
-# Chatbot de WhatsApp — Nativo Host / Nuna Lodge
+# Chatbot de WhatsApp — Nativo Host 
 
 Responde automáticamente preguntas frecuentes (menú, horarios, reservas, ubicación, hospedaje) a quienes escriban a tu número de WhatsApp. Opcionalmente puede usar IA para responder preguntas libres que no estén en la lista de FAQ.
 
