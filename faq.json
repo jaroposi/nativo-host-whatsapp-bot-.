@@ -7,27 +7,26 @@
   {
     "id": "menu",
     "keywords": ["menu", "menú", "carta", "que tienen", "qué tienen", "platos", "comida", "precio", "precios"],
-    "answer": "EDITA ESTO: aquí va un resumen de tu menú (ej: 'Tenemos desayunos, platos a la carta y cafetería. Puedes ver el menú completo aquí: https://canva.link/8g6akk3674ry6v7. También puedes escribir /menu para el menú detallado."
-  },
+    "answer": "Tenemos desayunos, platos a la carta y cafetería. Puedes ver el menú completo aquí: https://canva.link/8g6akk3674ry6v7."
   {
     "id": "horarios",
     "keywords": ["horario", "hora", "abren", "abierto", "cierran", "cerrado", "atienden"],
-    "answer": "EDITA ESTO: coloca aquí tus horarios reales, ej: 'Atendemos de lunes a domingo de 7:00 am a 9:30 pm.'"
+    "answer": "Atendemos de lunes a domingo de 7:00 am a 9:30 pm.'"
   },
   {
     "id": "reservas",
     "keywords": ["reserva", "reservar", "mesa", "disponibilidad", "cupo", "cupos"],
-    "answer": "EDITA ESTO: explica aquí tu proceso de reservas, ej: 'Para reservar una mesa indícanos fecha, hora y número de personas, y te confirmamos disponibilidad.'"
+    "answer": "Para reservar una mesa indícanos fecha, hora y número de personas, y te confirmamos disponibilidad."
   },
   {
     "id": "ubicacion",
     "keywords": ["ubicacion", "ubicación", "direccion", "dirección", "donde estan", "dónde están", "como llegar", "cómo llegar", "mapa"],
-    "answer": "EDITA ESTO: Km4 via Saraguro-Lojay/o enlace de Google Maps."
+    "answer": "Km4 via Saraguro-Lojay/o enlace de Google Maps."
   },
   {
     "id": "hospedaje",
     "keywords": ["hospedaje", "alojamiento", "habitacion", "habitación", "dormir", "cabaña", "cabañas", "booking"],
-    "answer": "EDITA ESTO: información sobre hospedaje/cabañas y airbnb.com.ec/h/nativohost"
+    "answer": "Hospedaje/cabañas y airbnb.com.ec/h/nativohost"
   },
   {
     "id": "default",
