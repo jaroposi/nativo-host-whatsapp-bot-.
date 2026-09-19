@@ -2,17 +2,17 @@
   {
     "id": "saludo",
     "keywords": ["hola", "buenas", "buenos dias", "buenos días", "buenas tardes", "buenas noches"],
-    "answer": "¡Hola! 👋 Bienvenido a Nativo Host / Nuna Lodge. Siente la cultura, vive la experiencia. ¿En qué te puedo ayudar? Puedes preguntarme por el menú, los horarios o cómo reservar."
+    "answer": "¡Hola! 👋 Bienvenido a Nativo Host. Siente la cultura, vive la experiencia. ¿En qué te puedo ayudar? Puedes preguntarme por el menú, los horarios o cómo reservar."
   },
   {
     "id": "menu",
     "keywords": ["menu", "menú", "carta", "que tienen", "qué tienen", "platos", "comida", "precio", "precios"],
-    "answer": "EDITA ESTO: aquí va un resumen de tu menú (ej: 'Tenemos desayunos, almuerzos y cafetería. Puedes ver el menú completo aquí: [enlace o PDF]'). También puedes escribir /menu para el menú detallado."
+    "answer": "EDITA ESTO: aquí va un resumen de tu menú (ej: 'Tenemos desayunos, platos a la carta y cafetería. Puedes ver el menú completo aquí: https://canva.link/k9j2jebp8p6trsy. También puedes escribir /menu para el menú detallado."
   },
   {
     "id": "horarios",
     "keywords": ["horario", "hora", "abren", "abierto", "cierran", "cerrado", "atienden"],
-    "answer": "EDITA ESTO: coloca aquí tus horarios reales, ej: 'Atendemos de lunes a domingo de 8:00 am a 8:00 pm.'"
+    "answer": "EDITA ESTO: coloca aquí tus horarios reales, ej: 'Atendemos de lunes a domingo de 7:00 am a 9:30 pm.'"
   },
   {
     "id": "reservas",
@@ -22,12 +22,12 @@
   {
     "id": "ubicacion",
     "keywords": ["ubicacion", "ubicación", "direccion", "dirección", "donde estan", "dónde están", "como llegar", "cómo llegar", "mapa"],
-    "answer": "EDITA ESTO: coloca aquí tu dirección y/o enlace de Google Maps."
+    "answer": "EDITA ESTO: Km4 via Saraguro-Lojay/o enlace de Google Maps."
   },
   {
     "id": "hospedaje",
     "keywords": ["hospedaje", "alojamiento", "habitacion", "habitación", "dormir", "cabaña", "cabañas", "booking"],
-    "answer": "EDITA ESTO: información sobre hospedaje/cabañas y el enlace de tu listado en Booking.com."
+    "answer": "EDITA ESTO: información sobre hospedaje/cabañas y airbnb.com.ec/h/nativohost"
   },
   {
     "id": "default",
